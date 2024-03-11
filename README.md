@@ -1,6 +1,6 @@
 # Age-Calculator_Javascript
 <br>
 Hi,
-this is a practise project : Age calculator
+<p>this is a practise project : Age calculator</p>
 <br>
-Feel Free to Test it Out.
+<p>Feel Free to Test it Out.</p>
