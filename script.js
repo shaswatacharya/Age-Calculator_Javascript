@@ -27,6 +27,7 @@ function calculateAge(){
     y3 = y2 - y1;
 
     if(m2 >= m1){
+        
         m3 = m2 - m1;
     }
     else{
@@ -56,5 +57,7 @@ function calculateAge(){
 }
 
 function getDaysInMonth(year, month){
+    
     return new Date(year, month, 0).getDate();
+    
 }
